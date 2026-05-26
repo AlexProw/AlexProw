@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hola, soy Alejandro Ramirez 👋
 
+Soy un programador y tester QA con mas de 9 años de experiencia, trabaje para diferentes empresas como desarrollador web, fullstack y QA Automation
+
+<details>
+    <summary>Mi forma humana</summary>
+    <p>hola esto es una prueba</p>
+    <figure>
+        <img src="https://fastly.picsum.photos/id/237/800/600.jpg" alt="thats me"/>
+    </figure>
+</details>
 <!--
 **AlexProw/AlexProw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
