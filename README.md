@@ -6,7 +6,7 @@ Soy un programador y tester QA con mas de 9 años de experiencia, trabaje para d
     <summary>Mi forma humana</summary>
     <p>hola esto es una prueba</p>
     <figure>
-        <img src="https://fastly.picsum.photos/id/237/800/600.jpg" alt="thats me"/>
+        <img src="/img/me.png" alt="thats me"/>
     </figure>
 </details>
 <!--
