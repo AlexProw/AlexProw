@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hola, soy Alejandro 👋
 
-<!--
-**AlexProw/AlexProw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador mas en este mundo, he trabajado para diferentes empresas como desarrollador web, fullstack y QA Automation. 
 
-Here are some ideas to get you started:
+>Tratando de levantar la chispa del codigo ahora que es mas complicado aprender de él.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>Mi forma humana</summary>
+    <figure>
+        <img src="/img/me.png" width="50%" alt="thats me"/>
+        <figcaption>that's me!!!</figcaption>
+    </figure>
+</details>
+
+## Using
+* Programming Languages: Python, Javascript
+* Frameworks: Django, Flask, Laravel, Playwright, Behave BDD 
+* OS: Solus OS, Elementary OS, Chrome OS Flex
+
+## learning
+* Estoy en proceso de mejorar mis habilidades de testing y Automation.
+* Aprendiendo proceso de crear videojuegos con Godot.
+
+<details>
+    <summary>Mi imagen de perfil</summary>
+    <p>Si, es un gato antropomorfo soy parte del fandom furry como hobby de internet. Just that</p>
+</details>
