@@ -1,11 +1,14 @@
 ## Hola, soy Alejandro 👋
 
-Soy un programador y tester QA con mas de 9 años de experiencia, trabaje para diferentes empresas como desarrollador web, fullstack y QA Automation
+Soy un desarrollador mas en este mundo, he trabajado para diferentes empresas como desarrollador web, fullstack y QA Automation. 
+
+>Tratando de levantar la chispa del codigo ahora que es mas complicado aprender de él.
 
 <details>
     <summary>Mi forma humana</summary>
     <figure>
         <img src="/img/me.png" width="50%" alt="thats me"/>
+        <figcaption>that's me!!!</figcaption>
     </figure>
 </details>
 
@@ -20,5 +23,5 @@ Soy un programador y tester QA con mas de 9 años de experiencia, trabaje para d
 
 <details>
     <summary>Mi imagen de perfil</summary>
-    <p>Si, es un gato antropomorfo son parte del fandom furry como hobby de internet. Just that</p>
+    <p>Si, es un gato antropomorfo soy parte del fandom furry como hobby de internet. Just that</p>
 </details>
