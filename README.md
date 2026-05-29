@@ -1,25 +1,24 @@
-## Hola, soy Alejandro Ramirez 👋
+## Hola, soy Alejandro 👋
 
 Soy un programador y tester QA con mas de 9 años de experiencia, trabaje para diferentes empresas como desarrollador web, fullstack y QA Automation
 
 <details>
     <summary>Mi forma humana</summary>
-    <p>hola esto es una prueba</p>
     <figure>
         <img src="/img/me.png" width="50%" alt="thats me"/>
     </figure>
 </details>
-<!--
-**AlexProw/AlexProw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Using
+* Programming Languages: Python, Javascript
+* Frameworks: Django, Flask, Laravel, Playwright, Behave BDD 
+* OS: Solus OS, Elementary OS, Chrome OS Flex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## learning
+* Estoy en proceso de mejorar mis habilidades de testing y Automation.
+* Aprendiendo proceso de crear videojuegos con Godot.
+
+<details>
+    <summary>Mi imagen de perfil</summary>
+    <p>Si, es un gato antropomorfo son parte del fandom furry como hobby de internet. Just that</p>
+</details>
