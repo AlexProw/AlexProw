@@ -15,11 +15,17 @@ Soy un desarrollador mas en este mundo, he trabajado para diferentes empresas co
 ## Using
 * Programming Languages: Python, Javascript
 * Frameworks: Django, Flask, Laravel, Playwright, Behave BDD 
-* OS: Solus OS, Elementary OS, Chrome OS Flex
+* OS: Fedora, Elementary OS, Chrome OS Flex
 
 ## learning
 * Estoy en proceso de mejorar mis habilidades de testing y Automation.
 * Aprendiendo proceso de crear videojuegos con Godot.
+* Incursionando en oportunidades freelance.
+* Aprendiendo desarrollo por IA (Not from VibeCoders or AI bros)
+
+## Hobbies
+* Gaming: Warframe, No Man's Sky, Cyberpunk 2077, Souls like, Metroidvanias etc.
+* Furry: Dibujo, Social, safeplace. (No te agrada? Esta bien, solo no seas un imbécil)
 
 <details>
     <summary>Mi imagen de perfil</summary>
